@@ -2,6 +2,7 @@ pwd
 ls
 ls -1
 ls -l
+ls -a
 cd ~
 pwd
 ls
@@ -14,6 +15,9 @@ mkdir test
 echo 'this text is printed on the screen'
 echo 'this text is saved to a file' > file.txt
 echo 'this is another line of text' >> file.txt
-mv file.txt test/myfile.txt
-cat test/myfile.txt
-# rm -r test
+cp file.txt file2.txt
+mv file2.txt test/file3.txt
+cat test/file3.txt
+rm test/*
+rm file.txt
+rmdir test
