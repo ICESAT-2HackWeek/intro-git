@@ -10,15 +10,12 @@ _Shane Grigsby, Aimee Barciauskas, Sebastian Alvis, Yara Mohajerani, Fernando Pa
 
 From 8:45 to 9am, we'll have a pre-tutorial "getting connected" section. Please come to this part to ensure everyone is on the same page and we can all start together at 9am with the main content:
 
-- 9:00-9:10 [Fernando Pérez]: [Overview of our basic tools and setup]: Jupyter and Pangeo
+- 9:00-9:10 [Fernando Pérez]: Overview of our basic tools and setup: Jupyter and Pangeo
 - 9:10-9:20 [Fernando Paolo]: Command Line Basics
 - 9:20-9:40 [Fernando Pérez]: Git: Introduction and Fundamentals
 - 9:40-10:00 [Anthony]: Git repositories
 - 10:00-10:25 [Daniel]: HackWeek Github Worfklows
 - 10:25-10:40 [Fernando Pérez]: Wrap up
-
-
-https://icesat-2.hackweek.io/hub/login
 
 ## Setup
 1. Login to JupyterHub:
@@ -31,10 +28,9 @@ https://icesat-2.hackweek.io/hub/login
 ## Questions
     Post your question in the [#questions](https://icesat2hackweek.slack.com/archives/C014V14KA3G) channel on Slack.
 
-
 ## Credit
 
-This collection of tutorials was adapted from the [ICESat-2 Hackweek tutorial](https://github.com/ICESAT-2HackWeek/intro-jupyter-git) by [@fperez](https://github.com/fperez)
+This collection of tutorials was adapted from the [2019 ICESat-2 Hackweek tutorial](https://github.com/ICESAT-2HackWeek/intro-jupyter-git) by [@fperez](https://github.com/fperez). Materials for 2020 were co-developed by the instructor team above.
 
 ## License
 
