@@ -15,9 +15,8 @@ This tutorial is hosted on the [Github ICESat-2 HackWeek organization](https://g
 
 From 8:45 to 9am, we'll have a pre-tutorial "getting connected" section. Please come to this part to ensure everyone is on the same page and we can all start together at 9am with the main content:
 
-https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing
-
-- 9:00-9:10 [Fernando Pérez]: Overview of our basic tools and setup: Jupyter and Pangeo
+- 9:00-9:10 [Fernando Pérez]: [Overview of our basic tools and setup (slides)](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing
+): Jupyter and Pangeo
 - 9:10-9:20 [Fernando Paolo]: Command Line Basics
 - 9:20-9:30 [Fernando Pérez]: Git: Introduction and Fundamentals
 - 9:30-10:00 [Fernando Pérez]: Git: first tasks
