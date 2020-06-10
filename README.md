@@ -26,7 +26,7 @@ From 8:45 to 9am, we'll have a pre-tutorial "getting connected" section. Please 
     `git clone https://github.com/ICESAT-2HackWeek/intro-git.git`
 
 ## Questions
-    Post your question in the [#questions](https://icesat2hackweek.slack.com/archives/C014V14KA3G) channel on Slack.
+Post your question in the [#questions](https://icesat2hackweek.slack.com/archives/C014V14KA3G) channel on Slack.
 
 ## Credit
 
